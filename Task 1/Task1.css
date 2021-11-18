@@ -1,0 +1,253 @@
+/* First Block */
+a:hover{
+    background-color:lightskyblue;
+}
+ 
+
+#btn-learnmore {
+    
+    background-color: rgb(236, 236, 105);
+    border: none;
+    color: #6b448f;
+    font-weight: bolder;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    align-self: center;
+    cursor: pointer;
+}
+#btn-learnmore:hover{
+    background-color:#6b448f;
+    color: white;
+}
+#welcome{
+    margin-top: 40px;
+    text-align: center;
+    color: black;
+}
+
+/* Second Block */
+.block-title{
+    text-align: center;
+    font-weight: bold;
+}
+#second-container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.card-text{
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+/* Third Block */
+.card-group{
+    width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+.card-img-top{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: 20%;
+}
+
+.heading{
+    
+    color: #6b448f;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+/* Fourth Block */
+#project-box{
+    margin-bottom: 5%;
+    margin-left: 2%; 
+    margin-right: 2%; 
+    margin-top: 5%;
+}
+.project {
+    /* border: 2px solid red; */
+    width: 315px;
+    height: 580px;
+    font-family: sans-serif;
+    background-color: rgb(238, 236, 236);
+    cursor: pointer;
+}
+.project:hover {
+    background-color: rgb(236, 236, 105);
+}
+#project-2 {
+    background-color: rgb(223, 219, 219); 
+ }
+ #project-2:hover{
+   background-color: rgb(236, 236, 105); 
+ }
+ .project-img{
+    width: 315px;
+    height: 350px;
+    object-fit: cover;
+}
+.project-name {
+    font-weight: 800; 
+    margin-left: 15px; 
+    font-size: 15px;
+  }
+  .project-text {
+    color: grey; 
+    margin-left: 15px; 
+    font-size: 14px; 
+    word-spacing: 1px; 
+    line-height: 25px; 
+    margin-right: 15px;
+  }
+  .project-button{
+      margin-left: 20%;
+    background-color: white;
+    border: none;
+    color: #6b448f;
+    font-weight: bolder;
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 16px;
+    align-self: center;
+    cursor: pointer;
+  }
+  .project-button:hover{
+    background-color:#6b448f;
+    color: white;
+  }
+
+/* Fifth block */
+/* Pricing table */
+.pricing-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    color: black;
+    word-spacing: 5px;
+}
+.pricing-line2{
+    text-align: center;
+    font-weight: bold;
+    color: grey;
+}
+.pricing-line3{
+    text-align: center;
+}
+
+.button-buy{
+    margin-left: 32%;
+    background-color: rgb(236, 236, 105);
+    border: none;
+    color: #6b448f;
+    font-weight: bolder;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    align-self: center;
+    cursor: pointer;
+}
+.button-buy:hover{
+    background-color:#6b448f;
+    color: white;
+}
+
+/* Sixth Block */
+/* video */
+#video-block{
+    background-color: indigo;
+    padding: 3%;
+}
+.video-title{
+    color: white;
+    text-align:center;
+}
+.video{
+    width: 300px;
+    margin-left: 9%;
+    margin-top: 4%;
+}
+#video-card-group{
+    
+    width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.video-para{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size:larger;
+}
+#video-card{
+    background-color: indigo;
+}
+
+/* Eight Block */
+/* Life in zippy */
+.zippy-life{
+    background-color: grey;
+    padding: 40px;
+}
+.life-image{
+   
+    margin-left: 38%;
+    width: 400px;
+}
+/* Ninth block */
+/* newsletter signup */
+.signup{
+    padding: 150px;
+    background-image: url(images/nav.jpg);
+    background-size: 100% 100%;
+}
+#search{
+    width: 1000px;
+}
+
+/* 10th block */
+/* map-contact */
+#contact{
+    padding: 80px;
+}
+#map-contact{
+    padding: 80px;
+}
+
+#contact-col{
+    background-color: rgb(255, 230, 0);
+}
+
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.blog-img{
+    width: 100%;
+}
+/* Footer */
+#col-1{
+    text-align: center;
+    padding: 2%;
+}
+#col-2{
+    text-align: center;
+    padding: 2%;
+}
+#col-3{
+    text-align: center;
+    padding: 2%;
+}
